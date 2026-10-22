@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ломть LMS — практика Java с обратной связью</title>
+  <desc id="desc">Курсы Java, бесплатные открытые уроки и проверка работ преподавателем. lomt.ru</desc>
+  <rect width="1280" height="360" rx="24" fill="#111827"/>
+  <path d="M960 0h296a24 24 0 0 1 24 24v312a24 24 0 0 1-24 24H816z" fill="#1b2c61"/>
+  <g transform="translate(64 76)">
+    <rect width="128" height="128" rx="24" fill="#315bef"/>
+    <path d="M128 74.5V128H69.5z" fill="#111827"/>
+    <text x="64" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="88" font-weight="700" fill="#fff">Л</text>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <text x="230" y="130" font-size="56" font-weight="700" fill="#fff">Ломть LMS</text>
+    <text x="230" y="190" font-size="32" fill="#dbe4ff">Практика Java с обратной связью</text>
+    <text x="230" y="240" font-size="23" fill="#aebcde">Курсы · Открытые уроки · Проверка работ</text>
+    <text x="64" y="310" font-size="22" fill="#b9c9ff">lomt.ru</text>
+  </g>
+</svg>
