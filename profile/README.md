@@ -1,4 +1,4 @@
-[![Ломть LMS — практика Java с обратной связью](https://raw.githubusercontent.com/LOMT1/.github/main/profile/assets/banner.svg)](https://lomt.ru/)
+[![Ломть LMS — практика Java с обратной связью](https://raw.githubusercontent.com/LOMTRU/.github/main/profile/assets/banner.svg)](https://lomt.ru/)
 
 # Ломть LMS
 
